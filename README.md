@@ -3,12 +3,12 @@ Mazebeer es una herramienta simple pero poderosa para encontrar rutas óptimas e
 
 Visualización intuitiva: Observa tu mapa en una cuadrícula clara, donde:
 
-⬜ indica espacios libres y transitables.
-🚧 marca edificios u obstáculos infranqueables.
-💧 representa agua u obstáculos que requieren rutas alternativas.
-🔥 señala áreas bloqueadas temporalmente.
-🧔 ilumina la ruta óptima encontrada.
-🍺 marca el destino final, ¡tu recompensa por encontrar el camino!
+* ⬜ indica espacios libres y transitables.
+* 🚧 marca edificios u obstáculos infranqueables.
+* 💧 representa agua u obstáculos que requieren rutas alternativas.
+* 🔥 señala áreas bloqueadas temporalmente.
+* 🧔 ilumina la ruta óptima encontrada.
+* 🍺 marca el destino final, ¡tu recompensa por encontrar el camino!
 Interacción amigable:
 
 Personaliza tu mapa: Define sus dimensiones (filas y columnas) para adaptarlo a tus necesidades.
