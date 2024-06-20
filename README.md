@@ -9,9 +9,9 @@ Visualización intuitiva: Observa tu mapa en una cuadrícula clara, donde:
 * 🔥 señala áreas bloqueadas temporalmente.
 * 🧔 ilumina la ruta óptima encontrada.
 * 🍺 marca el destino final, ¡tu recompensa por encontrar el camino!
-Interacción amigable:
+  
+Interacción amigable:Personaliza tu mapa Define sus dimensiones (filas y columnas) para adaptarlo a tus necesidades.
 
-Personaliza tu mapa: Define sus dimensiones (filas y columnas) para adaptarlo a tus necesidades.
 Coloca obstáculos estratégicamente: Decide dónde ubicar los obstáculos y elige su tipo (edificios, agua, áreas temporales).
 Elige tu camino: Indica el punto de inicio y el destino final de tu ruta.
 Inteligencia A:* PathFinderPy emplea el algoritmo A* para encontrar la ruta más corta y eficiente, considerando tanto la distancia recorrida como la distancia estimada al destino.
