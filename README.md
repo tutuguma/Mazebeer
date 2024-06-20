@@ -5,9 +5,9 @@ Necesitas encontrar el camino más corto en un mapa lleno de obstáculos? ¡Maze
 
 ## Características Destacadas
 Visualización intuitiva: Observa tu mapa en una cuadrícula clara, donde:
-. indica espacios libres y transitables.
-X marca obstáculos infranqueables.
-* ilumina la ruta óptima encontrada.
+- . indica espacios libres y transitables.
+* X marca obstáculos infranqueables.
++ * ilumina la ruta óptima encontrada.
 Interacción amigable:
 Personaliza tu mapa: Define sus dimensiones (filas y columnas) para adaptarlo a tus necesidades.
 Coloca obstáculos estratégicamente: Decide dónde ubicar los obstáculos y elige su tipo (edificios, agua, áreas temporales).
